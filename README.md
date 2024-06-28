@@ -15,3 +15,7 @@ This is a simple web application that predicts weather conditions for various ci
 - **API:** No external API used; weather data is predefined in the JavaScript file.
 - **Design:** Custom CSS for styling and layout.
 
+
+https://github.com/srijasuyambu7168/PRODIGY_WD_05/assets/172833137/fccf68d4-ebdc-4274-bb99-fec4f1e753e2
+
+
